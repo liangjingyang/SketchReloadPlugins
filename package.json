@@ -1,6 +1,6 @@
 {
   "name": "sketchreloadplugins",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "sketch": ">=3.0"
   },
@@ -22,9 +22,9 @@
     "@skpm/builder": "^0.4.0"
   },
   "author": "Simple Liang <simple.continue@gmail.com>",
-  "repository": { 
-    "type" : "git", 
-    "url" : "https://github.com/liangjingyang/SketchReloadPlugins.git"
-    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liangjingyang/SketchReloadPlugins.git"
+  },
   "description": "Reload Plugins."
 }
