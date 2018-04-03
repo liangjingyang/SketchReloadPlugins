@@ -7,5 +7,5 @@ export default function(context) {
   console.log(pane);
   let pluginManager = pane.pluginManager();
   pluginManager.reloadPlugins();
-  context.document.showMessage("Plugins reloaded 🙌");
+  context.document.showMessage("Plugins Reloaded 🙌");
 }

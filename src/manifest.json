@@ -6,10 +6,12 @@
     {
       "name": "Reload Plugins",
       "identifier": "reload-plugins",
-      "script": "reload-plugins.js"
+      "script": "reload-plugins.js",
+      "shortcut": "command ctrl shift r"
     }
   ],
   "menu": {
+    "isRoot" : true,
     "title": "Sketch Reload Plugins",
     "items": [
       "reload-plugins"
