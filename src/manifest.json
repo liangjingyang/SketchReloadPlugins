@@ -4,15 +4,15 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "name": "Reload Plugins",
+      "identifier": "reload-plugins",
+      "script": "reload-plugins.js"
     }
   ],
   "menu": {
-    "title": "SketchReloadPlugins",
+    "title": "Sketch Reload Plugins",
     "items": [
-      "my-command-identifier"
+      "reload-plugins"
     ]
   }
 }
